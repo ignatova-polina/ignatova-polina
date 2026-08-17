@@ -53,7 +53,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Morubot_0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:polina_ignatova_05@inbox.ru)
 
-
----
-
-⭐ **В свободное время решаю задачи на Codewars и читаю профессиональные Telegram-каналы по аналитике данных.**
